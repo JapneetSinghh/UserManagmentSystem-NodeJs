@@ -1,0 +1,17 @@
+.btn1{
+  border: none;
+  background-color: black;
+  display: block;
+}
+.l-gray-header{
+  height: 100px;
+  background-color: rgb(245, 245, 245);
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.l-gray-header h1{
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
